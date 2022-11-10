@@ -1,5 +1,5 @@
 # Scientific-Calculator-Programming-Fundamental-
-I built scientific calculator using c# console application to perform basic scientific calculation
+I built scientific calculator using c# console application to perform basic scientific calculation in my first semester
 
 [1](https://user-images.githubusercontent.com/113015136/200160983-fdb3891e-83c7-4235-ac0b-cf3f1fb9d837.PNG)
 ![2](https://user-images.githubusercontent.com/113015136/200160990-4112de50-3fcb-43b5-8fc8-57ee0f191d6f.PNG)
